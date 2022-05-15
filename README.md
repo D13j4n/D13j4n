@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D13j4n
 - 👀 I’m interested in improving my skillset to become a master in clean, efficient coding.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++ and C#
 - 💞️ I’m looking to collaborate on anything small that can help me improve my skills step-by-step
 - 📫 You're welcome to send me a message!
